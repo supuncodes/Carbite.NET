@@ -1,8 +1,0 @@
-H:\Carbite.NET\SampleService\bin\Debug\SampleRest.dll
-H:\Carbite.NET\SampleService\bin\Debug\SampleRest.pdb
-H:\Carbite.NET\SampleService\bin\Debug\Carbite.dll
-H:\Carbite.NET\SampleService\bin\Debug\Newtonsoft.Json.dll
-H:\Carbite.NET\SampleService\bin\Debug\Carbite.pdb
-H:\Carbite.NET\SampleService\obj\Debug\SampleService.csprojResolveAssemblyReference.cache
-H:\Carbite.NET\SampleService\obj\Debug\SampleRest.dll
-H:\Carbite.NET\SampleService\obj\Debug\SampleRest.pdb
