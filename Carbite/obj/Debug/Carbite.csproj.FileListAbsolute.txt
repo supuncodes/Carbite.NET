@@ -1,4 +1,0 @@
-H:\Carbite.NET\Carbite\bin\Debug\Carbite.dll
-H:\Carbite.NET\Carbite\bin\Debug\Carbite.pdb
-H:\Carbite.NET\Carbite\obj\Debug\Carbite.dll
-H:\Carbite.NET\Carbite\obj\Debug\Carbite.pdb
