@@ -1,0 +1,8 @@
+E:\Experiments\Microframework\SampleRest\bin\Debug\SampleRest.dll
+E:\Experiments\Microframework\SampleRest\bin\Debug\SampleRest.pdb
+E:\Experiments\Microframework\SampleRest\bin\Debug\99xMicroframework.dll
+E:\Experiments\Microframework\SampleRest\bin\Debug\Newtonsoft.Json.dll
+E:\Experiments\Microframework\SampleRest\bin\Debug\99xMicroframework.pdb
+E:\Experiments\Microframework\SampleRest\obj\Debug\SampleRest.csprojResolveAssemblyReference.cache
+E:\Experiments\Microframework\SampleRest\obj\Debug\SampleRest.dll
+E:\Experiments\Microframework\SampleRest\obj\Debug\SampleRest.pdb

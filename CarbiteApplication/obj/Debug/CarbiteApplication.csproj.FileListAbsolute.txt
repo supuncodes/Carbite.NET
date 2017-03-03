@@ -1,0 +1,10 @@
+H:\Carbite.NET\CarbiteApplication\bin\Microframework.dll
+H:\Carbite.NET\CarbiteApplication\bin\Microframework.pdb
+H:\Carbite.NET\CarbiteApplication\bin\Carbite.dll
+H:\Carbite.NET\CarbiteApplication\bin\SampleRest.dll
+H:\Carbite.NET\CarbiteApplication\bin\Newtonsoft.Json.dll
+H:\Carbite.NET\CarbiteApplication\bin\Carbite.pdb
+H:\Carbite.NET\CarbiteApplication\bin\SampleRest.pdb
+H:\Carbite.NET\CarbiteApplication\obj\Debug\CarbiteApplication.csprojResolveAssemblyReference.cache
+H:\Carbite.NET\CarbiteApplication\obj\Debug\Microframework.dll
+H:\Carbite.NET\CarbiteApplication\obj\Debug\Microframework.pdb

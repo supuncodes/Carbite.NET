@@ -1,0 +1,6 @@
+E:\Experiments\Microframework\99xMicroframework\bin\Debug\99xMicroframework.dll
+E:\Experiments\Microframework\99xMicroframework\bin\Debug\99xMicroframework.pdb
+E:\Experiments\Microframework\99xMicroframework\bin\Debug\Newtonsoft.Json.dll
+E:\Experiments\Microframework\99xMicroframework\obj\Debug\99xMicroframework.dll
+E:\Experiments\Microframework\99xMicroframework\obj\Debug\99xMicroframework.pdb
+E:\Experiments\Microframework\99xMicroframework\obj\Debug\99xMicroframework.csprojResolveAssemblyReference.cache
